@@ -1,0 +1,37 @@
+[
+        {
+                "name":"Ahmed Mohammed",
+                "username":"ahmed@education.qa",
+                "password":"a.ahmed"
+        },
+        {
+                "name":"Mohammed Essa",
+                "username":"mohamed@education.qa",
+                "password":"m.mohamed"
+        },
+        {
+                "name":"Hissa Essa",
+                "username":"he123@education.qa",
+                "password":"123"
+        },
+        {       "name":"Saleh Abdullah",
+                "username":"sa234@education.qa",
+                "password":"234"
+        },
+        {      "name":"Haya Almarri",
+                "username":"ha345@education.qa",
+                "password":"345"
+        },
+        {      "name":"Dina Ayad",
+                "username":"da456@education.qa",
+                "password":"456"
+        },
+        {      "name":"Najah Alnounou",
+                "username":"na567@education.qa",
+                "password":"567"
+        },
+        {      "name":"Sabah Almarri",
+                "username":"sa678@education.qa",
+                "password":"678"
+        }
+]
